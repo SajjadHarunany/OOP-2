@@ -3,7 +3,7 @@ import java.util.Random;
 public class Scenario {
     public static void main(String[] args) {
         Random rand = new Random();
-        int price = rand.nextInt(50) + 1; // Generates a number between 1 and 50
+        int price = rand.nextInt(50) + 1;
 
         System.out.println("Price: " + price);
 
