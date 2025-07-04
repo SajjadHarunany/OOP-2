@@ -8,7 +8,7 @@ package Arithmetic;
             int number1 = 300;
             int number2 = 0;
             try {
-                // Code that may throw an exception
+
                 int answer = number1/number2;
                 System.out.println("Answer: " + answer);
             }
